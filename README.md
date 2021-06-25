@@ -1,2 +1,2 @@
 # Python3
-This repo
+This repository contains projects coded in Python3
