@@ -1,4 +1,4 @@
-Welcome to my quintic equation approximation solver implemented in Python!
+# Quintic Polynomial Approximator
 
 This script provides a numerical solution for any quintic equation using the Newton-Raphson method.
 
